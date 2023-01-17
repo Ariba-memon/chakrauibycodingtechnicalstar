@@ -1,0 +1,10 @@
+  Open the Command Line and create the project by give this command:
+  
+  npx create-next-app@latest --experimental-app
+  
+  
+  install chakra ui
+      npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
+      
+      Start the server
+          npm run dev
